@@ -1,3 +1,3 @@
 [submodule "DDL-Idempotent"]
-	path = DDL-Idempotent
+	path = DDLIdempotent
 	url = git@github.com:Erick-INCS/DDL-Idempotent.git
